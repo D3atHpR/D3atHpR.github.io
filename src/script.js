@@ -1,1 +1,1 @@
-alert("Plataforma em desenvolvimento");
+//alert("Plataforma em desenvolvimento");
