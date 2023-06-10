@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+.sidebar-button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+.sidebar-button:hover {
+    color: #ddd;
+}
+.eli {
+    color: #F78A23;
+}
+
+.ajuda {
+    color: #020200;
+}
+
+h1{
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.header a {
+    color: inherit;
+    text-decoration: none;
+}
